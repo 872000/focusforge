@@ -1,5 +1,9 @@
 # FocusForge
 
+[![Swift 5.9+](https://img.shields.io/badge/Swift-5.9%2B-orange)](https://www.swift.org)
+[![Platform](https://img.shields.io/badge/Platform-iOS%2017%2B-blue)](https://developer.apple.com/ios/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
 ![FocusForge hero banner](docs/hero-banner.png)
 
 **Forge your focus.** FocusForge pairs a classic Pomodoro timer with a priority-driven task list and daily stats — streaks included. A pure, testable state machine drives the timer; WidgetKit/Live Activity bridge structs are ready for the lock screen.
